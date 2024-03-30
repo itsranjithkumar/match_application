@@ -1,0 +1,22 @@
+[
+{
+    "e1":"Command to list the content in the folder",
+    "s1":"ls"
+},
+{
+    "e2":"Command to create a new folder",
+    "s2":"mkdir"
+},
+{
+    "e3":"Command to remove a folder",
+    "s3":"rmdir"
+},
+{
+    "e4":"Command to remove a file",
+    "s4":"rm"
+},
+{
+    "e5":"Command to change the directory",
+    "s5":"cd"
+}
+]
