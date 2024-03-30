@@ -18,5 +18,17 @@
 {
     "e5":"Command to change the directory",
     "s5":"cd"
+},
+{
+    "e6":"Command to copy a file",
+    "s6":"cp"
+},
+{
+    "e7":"Command to move a file",
+    "s7":"mv"
+},
+{
+    "e8":"Command to rename a file",
+    "s8":"mv"
 }
 ]
